@@ -8,5 +8,15 @@ Actualmente, hay dos complementos oficiales disponibles:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 
-Ejecutar con:
-npm run dev
+# Requisitos
+
+- Node.js
+- npm (Node Package Manager)
+El proyecto utiliza React Router DOM
+
+## Instalación
+
+1. Clonar este repositorio con git
+2. npm install, para las dependencias
+2. Ejecutar con npm run dev
+ 
